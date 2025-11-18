@@ -1,4 +1,4 @@
-# Beginner-Friendly Java Calculator
+# Calculator
 
 This project contains a simple **Java Calculator** designed to help new
 programmers practice:
