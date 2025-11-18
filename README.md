@@ -39,7 +39,7 @@ Make sure Java is installed.
 Check version:
 
 ``` sh
-java -version
+java --version
 ```
 
 If Java is not installed, watch our video on installing Java: https://sign-java.netlify.app/gettingstarted/install_java.html
@@ -60,16 +60,10 @@ Make sure the file name **matches the class name** exactly.
 
 Navigate to the folder where your file is saved.
 
-### Windows example:
+### Example:
 
 ``` sh
-cd C:\Users\YourName\Desktop
-```
-
-### Mac/Linux example:
-
-``` sh
-cd /Users/yourname/Desktop
+cd C:\Users\YourName\Downloads
 ```
 
 ------------------------------------------------------------------------
